@@ -13,13 +13,11 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects (MERN)| Front End Projects**
 
-- 🤝 I’m looking for help with **Backend Optimization**
-
 - 👨‍💻 All of my projects are available at [https://somiya-portfolio.netlify.app/](https://somiya-portfolio.netlify.app/)
 
 - 💬 Ask me about **Full Stack Development, React, Node.js, JavaScript, Html, CSS, MongoDB.**
 
-- 📫 How to reach me **sowmimoorthi04@gmail.com**
+- 📫 How to reach me **sowmiyamoorthi01@gmail.com**
 
 - ⚡ Fun fact **My version of cardio is running "npm install".**
 
