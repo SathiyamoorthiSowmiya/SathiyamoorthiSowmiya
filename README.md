@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects (MERN)| Front End Projects**
 
-- 👨‍💻 All of my projects are available at (SathiyamoorthiSowmiya/Portfolio)
+- 👨‍💻 All of my projects are available at [SathiyamoorthiSowmiya/Portfolio](SathiyamoorthiSowmiya/Portfolio)
 
 - 💬 Ask me about **Full Stack Development, React, Node.js, JavaScript, Html, CSS, MongoDB.**
 
